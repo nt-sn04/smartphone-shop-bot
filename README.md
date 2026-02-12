@@ -1,1 +1,1 @@
-# smartphone-shop-bot
+# Smartphone Shop Bot
